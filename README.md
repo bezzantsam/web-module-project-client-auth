@@ -37,7 +37,7 @@ Each friend object has the format:
 
 ### Task 1: Project Set Up
 
-* [ ] Create a forked copy of this project.
+* [x ] Create a forked copy of this project.
 * [ ] Clone your OWN version of the repository in your terminal
 * [ ] cd into the project base directory `cd web-module-project-client-auth`
 * [ ] Download project dependencies by running `npm install`
